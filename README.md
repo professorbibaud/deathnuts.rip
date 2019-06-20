@@ -1,8 +1,9 @@
 ## Welcome to the dank zone.
 
-This is part creative-communication-method, part good-use-of-the-domain-we-already-know.
+This is part creative-communication-method, part good-use-of-the-domain-we-already-own.
 
 #### Important things to note: 
+
 - This is made through Github
 - To edit it you will need a Github account (if you don't have one already I can walk you through it!)
 - Once you're all set up, you will have full control over the (deathnuts) universe. 
