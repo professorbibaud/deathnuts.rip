@@ -11,4 +11,4 @@ Hi :) when making posts, all you need to do is make a new file in the _pages fol
 Then in the body of the post, make sure you include the header (aka "front matter") at the top (with layout/title)
 
 
-[https://jekyllrb.com/docs/posts/] (use this guide for reference!) 
+[use this guide for reference!] (https://jekyllrb.com/docs/posts/) 
